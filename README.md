@@ -10,19 +10,19 @@
 
 ###
 
-Neste desafio realizamos o primeiro projeto com React Native usando:
-<details>
-    * Babel
-    * Eslint
-    * Prettier
-    * Axios
-    * Prop-Types
-    * Styled-Components
-    * Reactotron
-    * React-Navigation 4.0
-    * React-Native-Gesture-Handler
-</details>
-Nele você adiciona o usuário do Github e acompanha as publicações favoritas, podendo assim navegar até a sua página com maior detalhes.
+## Neste desafio realizamos o primeiro projeto com React Native usando:
+
+    - Babel
+    - Eslint
+    - Prettier
+    - Axios
+    - Prop-Types
+    - Styled-Components
+    - Reactotron
+    - React-Navigation 4.0
+    - React-Native-Gesture-Handler
+
+### Nele você adiciona o usuário do Github e acompanha as publicações favoritas, podendo assim navegar até a sua página com maior detalhes.
 
 Resultado:
 
