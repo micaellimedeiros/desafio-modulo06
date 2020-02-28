@@ -11,9 +11,7 @@
 
 Resultado:
 
-<img src="https://github.com/MicaelliMedeiros/desafio-modulo06/blob/master/.github/exemple-android-01.png" width="50%">
-
-<img src="https://github.com/MicaelliMedeiros/desafio-modulo06/blob/master/.github/exemple-android-02.png" width="50%">
+<img src="https://github.com/MicaelliMedeiros/desafio-modulo06/blob/master/.github/exemple-android-01.png" width="50%"><img src="https://github.com/MicaelliMedeiros/desafio-modulo06/blob/master/.github/exemple-android-02.png" width="50%">
 
 <img src="https://github.com/MicaelliMedeiros/desafio-modulo06/blob/master/.github/exemple-android-03.png" width="50%">
 
