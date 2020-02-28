@@ -1,3 +1,5 @@
+//Eslint config
+
 module.exports = {
   env: {
     es6: true,
